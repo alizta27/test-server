@@ -1,0 +1,44 @@
+[
+   {
+      "name": "HackTheNation",
+      "companyLogo": "https://seeklogo.com/images/B/business-company-logo-C561B48365-seeklogo.com.png",
+      "location": "Jl. Budi Pekerti yang Luhur",
+      "email": "hackthenation@mail.com",
+      "description": "Contoh Lembaga1"
+    },
+    {
+      "name": "World Constructor",
+      "companyLogo": "https://www.codeyourbusiness.com/img/logo.jpg",
+      "location": "Jl. Bambang Pamungkas No. 100",
+      "email": "wordcons@mail.com",
+      "description": "Contoh Lembaga2"
+    },
+    {
+      "name": "Sequelize Corp",
+      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYg_FBiB0q-O0Z2WpI18qUXsfBjRamOD1HLevbBlEurTsrLKVfeAXGM1wKFZU2IdpkHHU&usqp=CAU",
+      "location": "Jl. Kelereng Warna Merah No. 300",
+      "email": "sequelizeinit-y@mail.com",
+      "description": "Contoh Lembaga3"
+    },
+    {
+      "name": "Dangdingdong Corp",
+      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWFdwCaRdoUM4A1X1Bbk5Fh4Uo6aF_9wrDEDUhIj3i1u7uKQsXI8XpRQJA42DqgUATZTo&usqp=CAU",
+      "location": "Jl. Underground No. 03",
+      "email": "dangdingdong@mail.com",
+      "description": "Contoh Lembaga4"
+    },
+    {
+      "name": "Kunci Sukses Corp",
+      "companyLogo": "https://seeklogo.com/images/B/black-k-letter-company-logo-4E88B05475-seeklogo.com.png",
+      "location": "Jl. Kunci Dunia No. 666",
+      "email": "kunses@mail.com",
+      "description": "Contoh Lembaga5"
+    },
+    {
+      "name": "Hektip7x",
+      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAKKZ85rylyTuBUScGQPLBR9wcZ5cELrSBfg&usqp=CAU",
+      "location": "Jl. Hek Hek Hek Tiiip No. 999",
+      "email": "hektip7x@mail.com",
+      "description": "Contoh Lembaga6"
+    }
+]
